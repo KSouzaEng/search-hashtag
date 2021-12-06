@@ -1,5 +1,7 @@
 # Search Hash
 
+![GitHub language count](https://img.shields.io/github/languages/count/KSouzaEng/search-hashtag?style=flat)  ![GitHub top language](https://img.shields.io/github/languages/top/KSouzaEng/search-hashtag)![GitHub last commit](https://img.shields.io/github/last-commit/KSouzaEng/search-hashtag)
+
 Esta aplicação foi desenvolvida usando o framework javascript **Vuejs**, sua principal função conssiste em buscar palavras qeu tenham mais de uma ocorrência e apresentá-las na tela organizadas por cards.Para implementação também foi usado o Desenvolvimento Orientado por Testes, de forma que as funcionalidades fossem testadas antes de serem implementadas, para tanto foi o usado o framework de testes javascript **Jest** juntamente com a biblioteca **Vue Test Utils** que fornece métodos para interagir com componentes vuejs.
 
 ## Linguagens Utilizadas
@@ -15,25 +17,18 @@ Para executar o projeto será necessário fazer o clone da aplicação:
 git clone https://github.com/KSouzaEng/search-hashtag.git
 ```
 
-## Project setup
+## Instalando as dependências
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Iniciando o Projeto
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Rodando os testes
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+npm run test:unit
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
