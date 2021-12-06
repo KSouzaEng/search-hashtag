@@ -1,5 +1,6 @@
 import { mount } from '@vue/test-utils'
 import SearchInput from '../../src/components/searchInput.vue'
+import getInfo from '../../src/components/getInfo.vue'
 
 describe('search-input - Unit', () => {
   it('should be a vue instance', () => {
@@ -51,6 +52,19 @@ describe('search-input - Unit', () => {
 
     // expect(wrapper.emitted().input).toBeTruthy()
     expect(wrapper.emitted().input[0]).toEqual([''])
+  })
+  it('passes a binded user prop to get info component', async () => {
+    const wrapper = mount(getInfo,{
+      propsData: {
+        hashtag: ''
+      }
+    })
+
+    await wrapper.setProps({ hashtag: 'test' })
+
+    expect(wrapper.vm.hashtag).toBe(wrapper.vm.hashtag)
+
+
   })
 })
 
