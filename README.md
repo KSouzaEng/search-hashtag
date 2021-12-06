@@ -10,6 +10,9 @@ Esta aplicação foi desenvolvida usando o framework javascript **Vuejs**, sua p
 - jest
 - test
 
+## Aplicação online em:
+- [Search Hash](https://dreamy-spence-5436ae.netlify.app/)
+
 ## Linguagens Utilizadas
 - JAVASCRIPT
 
