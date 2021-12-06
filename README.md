@@ -9,6 +9,10 @@ Esta aplicação foi desenvolvida usando o framework javascript **Vuejs**, sua p
 - Vue js
 - Jest
 
+## Clone do Projeto 
+Para executar o projeto será necessário fazer o clone da aplicação clicando no link:
+- [Search Hash](https://code.visualstudio.com/download)
+
 ## Project setup
 ```
 npm install
