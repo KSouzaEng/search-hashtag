@@ -1,4 +1,4 @@
-# Serach Hash
+# Search Hash
 
 ## Project setup
 ```
