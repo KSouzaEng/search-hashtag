@@ -8,7 +8,7 @@ Esta aplicação foi desenvolvida usando o framework javascript **Vuejs**, sua p
 - JAVASCRIPT
 
 ## Frameworks
-- Vue js
+-[Vue js](https://vuejs.org/)
 - [Jest](https://jestjs.io/pt-BR/)
 
 ##Bibliotecas
