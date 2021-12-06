@@ -8,10 +8,10 @@ Esta aplicação foi desenvolvida usando o framework javascript **Vuejs**, sua p
 - JAVASCRIPT
 
 ## Frameworks
--[Vue js](https://vuejs.org/)
+- [Vue js](https://vuejs.org/)
 - [Jest](https://jestjs.io/pt-BR/)
 
-##Bibliotecas
+## Bibliotecas
 - [Vue Test Utils](https://vue-test-utils.vuejs.org/)
 
 ## Clone do Projeto 
