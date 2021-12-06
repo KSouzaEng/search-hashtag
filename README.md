@@ -9,7 +9,10 @@ Esta aplicação foi desenvolvida usando o framework javascript **Vuejs**, sua p
 
 ## Frameworks
 - Vue js
-- Jest
+- [Jest](https://jestjs.io/pt-BR/)
+
+##Bibliotecas
+- [Vue Test Utils](https://vue-test-utils.vuejs.org/)
 
 ## Clone do Projeto 
 Para executar o projeto será necessário fazer o clone da aplicação:
@@ -31,4 +34,3 @@ npm run serve
 ```
 npm run test:unit
 ```
-
