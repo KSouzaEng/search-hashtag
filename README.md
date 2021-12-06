@@ -10,8 +10,10 @@ Esta aplicação foi desenvolvida usando o framework javascript **Vuejs**, sua p
 - Jest
 
 ## Clone do Projeto 
-Para executar o projeto será necessário fazer o clone da aplicação clicando no link:
-- [Search Hash](https://code.visualstudio.com/download)
+Para executar o projeto será necessário fazer o clone da aplicação:
+```
+git clone https://github.com/KSouzaEng/search-hashtag.git
+```
 
 ## Project setup
 ```
